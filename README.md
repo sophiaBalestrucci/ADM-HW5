@@ -8,8 +8,7 @@ Superheroes and abilities have always existed in the human imagination. Marvel h
 
 Our team have decided to dive deep into Marvel's social network. We used graphs to determine relevant characteristics and highlights from the relations among those superheroes.
 ### main.ipynb
-This file contains the answers to the practical question of our homework.
+This file contains the answers to the practical and theoretical questions of our homework.
 ### CommandLine.sh
 This is the bash script for the Command Line Question.
-### Algorithmic Question.ipynb
-This file contains the answers to the theoretical questions of the homework.
+
